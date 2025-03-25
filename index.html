@@ -950,6 +950,15 @@
 			translateBtn.textContent = 'Pronounce';
 			card.querySelector('.italian').appendChild(translateBtn);
 		});
+		document.querySelectorAll('.fc').forEach(card => {
+			const pElements = card.querySelectorAll('p');
+			const englishTextElem = pElements[0];
+			const italianTextElem = pElements[1];
+			englishTextElem.style.color = 'navy';
+			italianTextElem.style.color = 'orangered';
+			italianTextElem.style.fontStyle = 'italic';
+			italianTextElem.style.visibility = 'visible';
+		});
 	</script>
 
 </body>
