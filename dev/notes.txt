@@ -5,3 +5,19 @@ per il testo seguente, crea (1) un titolo (prima lettera maiuscola ma il resto m
 				italianTextElem.style.color = 'orangered';
 				italianTextElem.style.fontStyle = 'italic';
 				italianTextElem.style.visibility = 'visible';
+
+
+
+
+<div>
+	nnn. <a
+		href="uuuuuuuuu">tttttttttttt</a>
+	<p>
+		ddddddddddddddddddddd
+		<a href="audio/nnn.mp3">audio</a>
+	</p>
+	<div class="fc">
+		<p>eeeeeee</p>
+		<p>iiiiiiiiiiiiii</p>
+	</div>
+</div>
