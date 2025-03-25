@@ -1,0 +1,7 @@
+
+per il testo seguente, crea (1) un titolo (prima lettera maiuscola ma il resto minuscolo) e (2) un riassunto in tre frasi
+
+				card.style.backgroundColor = '#bbb';
+				italianTextElem.style.color = 'orangered';
+				italianTextElem.style.fontStyle = 'italic';
+				italianTextElem.style.visibility = 'visible';

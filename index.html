@@ -109,7 +109,8 @@
 		section.audios div.fc {
 			background-color: #ccc;
 			margin: .3rem 0 0 0;
-			padding: .3rem;
+			padding: .5rem;
+			cursor: pointer;
 
 			p {
 				margin: 0;
@@ -123,6 +124,22 @@
 
 			p:last-child {
 				visibility: hidden;
+			}
+		}
+
+		section.audios div.active {
+			background-color: #555;
+		}
+
+		section.audios div.active {
+			p:first-child {
+				color: #aaa;
+			}
+
+			p:last-child {
+				visibility: visible;
+				color: yellow;
+				font-style: italic;
 			}
 		}
 	</style>
@@ -164,17 +181,6 @@
 		<li><a href="https://onlineitalianclub.com/free-italian-exercises-and-resources/online-italian-course-beginner-level-a1/"
 			   target="_blank">A1 Level</a> - Online Italian Club, audios and quizzes </li>
 	</ul>
-
-
-
-
-
-	<div style="display: none">
-
-		per il testo seguente, crea (1) un titolo (prima lettera maiuscola ma il resto minuscolo) e (2) un riassunto in
-		tre frasi
-
-	</div>
 
 
 	<h2>A1 AUDIO</h2>
@@ -356,10 +362,15 @@
 
 
 
-
 		<a
 		   href="https://onlineitalianclub.com/free-italian-exercises-and-resources/online-italian-course-beginner-level-a1/la-grammatica-ascoltata-a1-1-ce-ci-sono/">C’è/ci
 			sono / There is/there are</a> (A1), transcript<br>
+
+
+
+<div style="display:none">nnn</div>
+
+
 		<a
 		   href="https://onlineitalianclub.com/free-italian-exercises-and-resources/online-italian-course-beginner-level-a1/new-free-elementary-level-italian-listening-exercises-88/">Casa
 			/ House</a> (A1), multiple-choice exercise, transcript<br>
@@ -954,10 +965,9 @@
 			const pElements = card.querySelectorAll('p');
 			const englishTextElem = pElements[0];
 			const italianTextElem = pElements[1];
-			englishTextElem.style.color = 'navy';
-			italianTextElem.style.color = 'orangered';
-			italianTextElem.style.fontStyle = 'italic';
-			italianTextElem.style.visibility = 'visible';
+			card.addEventListener('click', () => {
+				card.classList.toggle('active');
+			});
 		});
 	</script>
 
