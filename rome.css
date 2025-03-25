@@ -1,0 +1,102 @@
+body {
+	padding: 10px;
+	font-size: 20px;
+}
+h {
+	color:red;
+	font-weight: bold;
+	background-color: yellow;
+	font-style: italic;
+}
+
+div.clear {
+	clear: both;
+}
+
+/* DAY */
+day {
+	background-color: orange;
+	width: 100%;
+	display: block;
+	margin: 0 0 2px 0;
+	padding: 0;
+}
+day date {
+	display: block;
+	margin: 0;
+	font-size: 26px;
+	background-color: yellow;
+	float: left;
+}
+day date::after {
+	content: "\00a0";
+}
+day date::before {
+	content: "\00a0";
+}
+day topic::after {
+	content: "\00a0";
+}
+day topic::before {
+	content: "\00a0";
+}
+day topic {
+	display: block;
+	margin: 0;
+	font-weight: bold;
+	font-size: 26px;
+	background-color: orange;
+	float:left;
+}
+
+event {
+	display: block;
+	background-color: #ddd;
+	margin: 2px 0 0 0;
+}
+event time {
+	background-color: blue;
+	color: ivory;
+	font-weight: bold;
+}
+event time::before {
+	content: "\00a0";
+}
+event time::after {
+	content: "\00a0";
+}
+
+
+img {
+	box-shadow: 2px 2px 1px grey;
+	margin: 2px 0 5px 0;
+}
+info {
+	margin: 2px 0 0 0;
+	display: block;
+}
+info::before {
+	font-family: FontAwesome;
+	content: "\f05a";
+	margin-right: 5px;
+}
+todo {
+	margin: 2px 0 0 0;
+	display: block;
+}
+todo::before {
+	font-family: FontAwesome;
+	content: "\f061";
+	margin-right: 5px;
+}
+
+entry {
+	margin: 10px 0 20px 0;
+	display: block;
+}
+
+
+
+
+
+

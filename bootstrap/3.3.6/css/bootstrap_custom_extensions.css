@@ -1,0 +1,196 @@
+/*
+These are fixes and extensions to Bootstrap.
+*/
+
+.img-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div.img-polaroid {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+div.img-polaroid div.polaroid_container {
+    padding: 15px 10px 10px 5px;
+}
+fieldset.debug legend {
+    font-size: 12px;
+    border: none;
+    margin: 0;
+    color:#CC0000;
+}
+.sidebyside_left {
+    float:left; 
+}
+.sidebyside_right {
+    float:left; 
+    padding: 0 0 0 8px;
+}
+legend {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+}
+
+/* table-generic */
+table.table-generic th {
+    font-weight: bold;
+}
+
+/* menu overrides */
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    background-color: #eee;
+}
+
+/* smartphone */
+@media (max-width: 767px){
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a, 
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus, 
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover {
+        background-color: #fff;
+        color: black;
+    }
+
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus, 
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover, 
+    .navbar-inverse .navbar-nav .open .dropdown-menu>a:hover {
+        background-color: #eee;
+    }
+    .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
+        background-color: #eee;
+    }
+}
+
+/* keeps the menu items closer together TODO: REMOVE */
+.nxavbar-nav>li>a {
+    padding-left: 0;
+}
+
+code {
+    color: #000;
+    font-family: courier !important;
+}
+
+/* GRAY BUTTON */
+.btn.btn-gray {
+    border: 1px solid #838383;
+    color: ivory !important;
+    background-color: #A6A6A6;
+}
+.btn.btn-gray:hover {
+    border: 1px solid #838383;
+    color: ivory !important;
+    background-color: #959595;
+}
+.btn.btn-gray:active,.btn.btn-gray:link,.btn.btn-gray:visited {
+    border: 1px solid #838383;
+    background-color: #959595;
+    color: ivory !important;
+}
+.btn-group.open .btn.btn-gray.dropdown-toggle {
+    background-color: #959595; 
+    color: ivory !important;
+} 
+
+
+/* dd/dl lists */
+/* smartphone */
+@media (max-width: 767px){
+    dl.dl-horizontal dt {
+        color: #aaa;
+        font-size: .8em;
+        font-style: italic;
+    }
+    dl.dl-horizontal dt:after {
+        content: ':';
+        padding-right: 3px;
+    }
+    dl.dl-horizontal dl {
+        padding-bottom: 10px;
+    }
+}
+/* tablet/computer */
+@media (min-width: 768px) {
+    dl.dl-horizontal dt {
+        color: #666;
+        font-style: italic;
+
+    }
+    dl.dl-horizontal dt:after {
+        content: ':';
+        padding-right: 3px;
+    }
+}  
+/* tablet/computer */
+@media (min-width: 1200px) {
+    dl.dl-horizontal dt {
+        margin: 0 0 15px 0;
+
+    }
+}
+
+
+/* RESPONSIVE TABLE */
+
+/* smartphone view */
+div.responsive_smartphone table {
+    border-collapse: separate;
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+    margin: 0 0 10px 0;
+}
+div.responsive_smartphone table td {
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding: 5px;
+}
+div.responsive_smartphone table tr td:nth-child(1) {
+    font-weight: bold;
+    background-color: #ccc;
+    border-right: 1px solid #777;
+}
+div.responsive_smartphone table tr td:nth-child(1)::after {
+    content: ":";
+}
+div.responsive_smartphone table:nth-child(odd) td:nth-child(2) {
+    background-color: #f8f8f8;
+}
+div.responsive_smartphone table:nth-child(even) td:nth-child(2) {
+    background-color: #eee;
+}
+/* tablet/computer view */
+table.responsive_tabletComputer {
+    border-collapse: separate;
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+}
+table.responsive_tabletComputer th {
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #777;
+    padding: 5px;
+}
+table.responsive_tabletComputer td {
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding: 5px;
+}
+table.responsive_tabletComputer thead tr  {
+    font-weight: bold;
+    border-bottom: 1px solid #aaa;
+    background-color: #ccc;
+}
+table.responsive_tabletComputer td {
+    margin: 0 5px 0 0;
+}
+table.responsive_tabletComputer tbody tr:nth-child(odd) td {
+    background-color: #f8f8f8;
+}
+table.responsive_tabletComputer tbody tr:nth-child(even) td {
+    background-color: #eee;
+}
+
