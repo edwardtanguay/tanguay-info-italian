@@ -1,0 +1,15 @@
+2025-03-27
+
+>> Il mio progetto: Output comprensibile
+
+Oggi voglio elaborare i dettagli di un nuovo metodo di studio delle lingue. Penso che questo sia un buon metodo per imparare le lingue. Questo è chiamato output comprensibile [SEE]. Si basa sulla produzione di output comprensibili, cioè [CHOH-eh] produrre frasi che abbiano un significato per te. 
+Sto attualmente definendo i dettagli di questo progetto. Penso che, naturalmente, per utilizzare questo metodo sia necessario avere un certo livello linguistico. Ma penso anche che sia molto adattabile [TAH]. Un fattore importante di questo metodo è che ti obbliga, o ti consente, di usare il linguaggio per lo scopo per cui è stato concepito: produrre il significato che vuoi produrre.
+Dovrò fare un po' di programmazione per renderlo efficace. Per esempio, dovrò scrivere uno script per rimuovere determinate parole o lettere a caso. 
+Ma lasciatemi definirlo meglio. Devi semplicemente scrivere in un file di testo quello che stai pensando. Non hai alcuna traduzione nel file di testo. Hai solo il linguaggio che vuoi produrre. La cosa principale è che devi produrre una grande quantità di linguaggio al giorno, ad esempio, almeno cinquemila parole di testo che hanno un significato per te e che esprimono qualcosa che vuoi esprimere in uno schema logico. 
+Dovrebbe essere il linguaggio che vuoi produrre in ogni caso. Dovresti scrivere frasi lunghe nella tua lingua madre e poi tradurle nella lingua di destinazione. 
+
+>> Pensieri sull'apprendimento di ieri
+
+Ieri mi sono reso conto che c'erano due parole difficili da distinguere. Queste parole erano "spesso" e "di solito". Cosa significa "spesso"? In inglese questa parola significa "often". E cosa significa "di solito"? In inglese questa parola significa "usually". Ma queste due parole sono molto simili. Ho difficoltà a distinguerli. 
+Ma poi, ho inventato un trucco per ricordarli. La parola "spesso" finisce con la lettera "o" e per questo motivo significa "often" una parola che inizia con la lettera "o". Le parole in "di solito" terminano con le lettere "i" e "o", che vengono solitamente utilizzate nelle parole perché sono vocali. Inoltre, "spesso" è una parola breve, e "often" è una parola breve.
+Come puoi vedere, puoi creare qualsiasi tipo di logica che ti aiuti a ricordare determinate parole o le differenze tra le parole. La cosa principale è pensarci e scrivere la logica in modo da poterla ricordare la prossima volta che ti servirà.
