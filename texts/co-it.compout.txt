@@ -1,4 +1,5 @@
-2025-03-27 - Giovedì 27 maggio 2025
+
+2025-03-27 - Giovedì 27 marzo 2025
 
 >> Primo tema: Il mio progetto: Output comprensibile
 
@@ -20,4 +21,17 @@ Come puoi vedere, puoi creare qualsiasi tipo di logica che ti aiuti a ricordare 
 
 Adesso devo prendermi un po' di tempo per decidere cosa faremo mercoledì, giovedì, venerdì e sabato mentre saremo a Milano. Naturalmente sappiamo cosa faremo domenica: partiremo la maratona alle otto e mezza del mattino e cercheremo di terminarla fino alle quindici di  pomeriggio. Dopo la gara sappiamo anche cosa faremo. Dobbiamo andare all'aeroporto con Giacomo affinché Hannah e Giacomo possano tornare ad Amburgo. Dopodiché andrò a mangiare una grande cena di vittoria a Milano. E lunedì andrò a Bergamo per visitare quella città. Poi devo tornare presto per preparare le valigie perché devo prendere il volo dall'aeroporto di Linate domattina presto.
 
-Quindi, credo che leggerò il mio libro su Milano dall'inizio alla fine. Scriverò tutto ciò che potrebbe interessarci.
+Quindi, credo che leggerò il mio libro su Milano dall'inizio alla fine. Scriverò tutto ciò che potrebbe interessarci. Quindi, ora comincerò a pianificare il nostro viaggio, altrimenti non andrò molto lontano oggi. 
+
+Ora sto cercando di creare un'icona sul mio smartphone che porti direttamente al nostro sito web di Milano. Non pensavo che sarebbe stato così difficile. ChatGPT mi ha parlato di un'app utile chiamata "Shortcut Maker" che ho usato per creare una scorciatoia all'URL esatto. Molto bello.
+
+Fuori Milano ci sono molti laghi e piccole città da visitare. Sarebbe bello visitare quelle città un giorno, per una settimana circa.
+
+Ma torniamo a Milano, andrò a vedere i ristoranti che mi ha consigliato Alessandro. Ma prima voglio registrarmi per tutti i Airbnb experiences che vogliamo fare. Quindi, ho dovuto annullare un evento perché la data non era più disponibile. Ma ne ho trovato un altro per sostituirlo. Ora ci siamo iscritti a quattro eventi. Ora farò il quinto. Ora mi manca solo un altro evento da registrare, poi avrò terminato questa parte della pianificazione.
+
+2025-03-28 - Vederdì 28 marzo 2025 
+
+>> Il mio progetto compoutput
+
+Ho iniziato il mio progetto compoutput. Spero di avere una versione definitiva entro stasera. Mi piace molto usare l'editor Trae. Ha molte funzionalità AI ed è gratuito. Per prima cosa creerò due modelli, uno per Go e uno per Python. Ho appena terminato il Datapod che utilizza React e JSON. Questo è un progetto di base che può essere utilizzato per creare app locali che utilizzano un linguaggio di scripting per convertire file di testo in file di dati JSON.
+ 
