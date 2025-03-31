@@ -34,4 +34,13 @@ Ma torniamo a Milano, andrò a vedere i ristoranti che mi ha consigliato Alessan
 >> Il mio progetto compoutput
 
 Ho iniziato il mio progetto compoutput. Spero di avere una versione definitiva entro stasera. Mi piace molto usare l'editor Trae. Ha molte funzionalità AI ed è gratuito. Per prima cosa creerò due modelli, uno per Go e uno per Python. Ho appena terminato il Datapod che utilizza React e JSON. Questo è un progetto di base che può essere utilizzato per creare app locali che utilizzano un linguaggio di scripting per convertire file di testo in file di dati JSON.
+
+>> Guardare i video tutorial di React/AWS
+
+Adesso sto guardando un video su React e AWS. Mi piace come dice "è un buon segno". Sto anche cercando verbi riflessivi. Quando guardo questi video, cerco sempre di avere un tema come questo. Sta parlando di un "bel pezzo" di testo. Bella parola.
+
+Sono contento di poter leggere i sottotitoli in italiano, perché il contenuto del video ha ancora ben poco a che fare con AWS. Sta parlando solo delle basi di React, ma è interessante vedere come affronta questi temi. Ecco alcune frasi interessanti che ho sentito:  (if you recall) si ricordi, (if you guys recall) e se ricordate, (we were about to do) stavamo a fare. 
+
+Penso che il vantaggio principale di leggere i sottotitoli in italiano sia che la lingua si assimila con il tempo. L'aspetto più importante è assicurarsi di aver capito tutto e cercare qualsiasi cosa non si capisca. Il cervello si occuperà del resto, è programmato per imparare le lingue.
+
  
